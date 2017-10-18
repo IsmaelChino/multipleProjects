@@ -76,9 +76,9 @@ public class Main {
 
             // change the billto address
             USAddress address = po.getBillTo();
-            address.setToName( "John Bob" );
-            address.setStreet( "242 Main Street" );
-            address.setCity( "Beverly Hills" );
+            address.setToName( "Juan Nives" );
+            address.setStreet( "Invernalia" );
+            address.setCity( "In Da Nort" );
             address.setState(USState.CA);
             address.setZipCode( 90210);
 	
